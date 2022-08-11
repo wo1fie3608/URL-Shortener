@@ -1,0 +1,2 @@
+This service shortens URL by the help of hashing and uses tries for optimizing traversals because the links have to be stored as they cannot be reverse engineered.<br/>
+Other hashing algos are not used because they themselves generate large string that is unsuitable for this job.Apart from that I have added authentication of each user and different features link clicks,description and other features.
